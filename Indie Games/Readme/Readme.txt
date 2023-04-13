@@ -1,0 +1,1 @@
+These scripts were created to expand the capabilities of scripts written by employees before me, at Thought Generation Society.
